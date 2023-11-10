@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Keemi Tamssar Arsen
+- 👋 Hi, I’m Keemi Tamssar Arsene
 - 👀 I’m interested in coding as a full-stack web developer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a project
